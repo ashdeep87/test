@@ -1,0 +1,248 @@
+Here's an imaginary sample for what the output will look like
+
+gcId: 12345,
+semanticGCId: "dan-barker-1",
+possibleNames : [
+    {
+      firstName: "Dan"
+      lastName: "Barker"
+      middleNames: None
+      prefix: ""
+      suffix: ""
+      fullName: "Dan Barker"
+      fullNameRaw: "Dan Barker"
+    }
+],
+primaryName : {
+  firstName: "Dan"
+  lastName: "Barker"
+  middleNames: []
+  prefix: ""
+  suffix: ""
+  fullName: "Dan Barker"
+  fullNameRaw: "Dan Barker"
+},
+popularAliases: ["", ""],
+addresses: [
+  {
+    "city": "Kansas City",
+    "country": "United States",
+    "state": "Missouri",
+    "latitude": 39.09,
+    "longitude": -94.57
+  }
+],
+emailAddresses: [
+    {
+      "address": "dbarker@hint.is"
+    },
+    {
+      "emailAddress": "ibarky@gmail.com"
+    },
+    {"
+      emailAddress": "dbarker@fishbowl.com"
+    },
+    {
+        "emailAddress": "dan.barker@clickfarminteractive.com"
+    },
+    {
+      "emailAddress": "dbarker@c3mail.com"
+    },
+    {
+      "emailAddress": "dbarker@hinthint.tv"
+    },
+    {
+      "emailAddress": "dan.barker@chronicle.health"
+    }
+],
+tags: [],
+phones: [
+  {
+    countryCode: 1,
+    phoneNumber: 8166985054,
+    display: "+1 816-698-5054",
+    displayInternational: "+1 816-698-5054"
+  },
+  {
+    countryCode: 1,
+    phoneNumber: 9134916444,
+    display: "+1 913-491-6444",
+    displayInternational: "+1 913-491-6444"
+  }
+],
+urls : [                        
+  {
+      source: ""
+      host: "linkedin.com",
+      scheme: URLScheme.HTTPS,
+      name: "linkedin.com",
+      raw: "https://linkedin.com/in/danbarker"
+  },
+  {
+      source: ""
+      host: "linkedin.com",
+      scheme: URLScheme.HTTPS,
+      name: "linkedin.com",
+      raw: "https://linkedin.com/in/dan-barker-18260b2"
+  },
+  {
+      source: ""
+      host: "facebook.com",
+      scheme: URLScheme.HTTPS,
+      name: "facebook.com",
+      raw: "https://facebook.com/barky"
+  },
+  {
+      source: ""
+      host: "twitter.com",
+      scheme: URLScheme.HTTPS,
+      name: "twitter.com",
+      raw: "https://twitter.com/ibarky"
+  },
+  {
+      source: ""
+      host: "foursquare.com",
+      scheme: URLScheme.HTTPS,
+      name: "foursquare.com",
+      raw: "https://foursquare.com/user/64924"
+  },
+  {
+      source: ""
+      host: "gravatar.com",
+      scheme: URLScheme.HTTPS,
+      name: "gravatar.com",
+      raw: "https://gravatar.com/ibarky"
+  },
+  {
+      source: ""
+      host: "youtube.com",
+      scheme: URLScheme.HTTPS,
+      name: "youtube.com",
+      raw: "https://youtube.com/user/iphog"
+  },
+  {
+      source: ""
+      host: "klout.com",
+      scheme: URLScheme.HTTPS,
+      name: "klout.com",
+      raw: "https://klout.com/ibarky"
+  },
+],
+education: {
+  education: [{
+          degree: None,
+          school: "the university of kansas",
+          startedOn: None,
+          completedOn: None,
+          degreeHeadline: None
+      },
+      {
+          degree: "bachelors",
+          school: "kansas state university",
+          startedOn: None,
+          completedOn: None,
+          degreeHeadline: "bachelor of science"
+      }
+    ]
+},
+employment: {
+  employment: [
+    {
+        title: None
+        organization: "the family hospitality group"
+        industry: "marketing and advertising"
+        startedOn: None
+        completedOn: None
+        jobHeadline: None
+    },
+    {
+        title: None
+        organization: "landajob marketing and advertising talent"
+        industry: "marketing and advertising"
+        startedOn: None
+        completedOn: None
+        jobHeadline: None
+    },
+    {
+        title: None
+        organization: "chicago rush arena football"
+        industry: "sports"
+        startedOn: None
+        completedOn: None
+        jobHeadline: None
+    },
+    {
+        title: None
+        organization: "ship it pro"
+        industry: "logistics and supply chain"
+        startedOn: None
+        completedOn: None
+        jobHeadline: None
+    },
+    {
+        title: None
+        organization: "c3 | creative consumer concepts"
+        industry: "marketing and advertising"
+        startedOn: None
+        completedOn: None
+        jobHeadline: None
+    },
+    {
+        title: None
+        organization: "clickfarm interactive"
+        industry: "marketing and advertising"
+        startedOn: None
+        completedOn: None
+        jobHeadline: None
+    },
+    {
+        title: None
+        organization: "liquid 9"
+        industry: "media production"
+        startedOn: None
+        completedOn: None
+        jobHeadline: None
+    },
+    {
+        title: None
+        organization: "fishbowl inc."
+        industry: "marketing and advertising"
+        startedOn: None
+        completedOn: None
+        jobHeadline: None
+    },
+    {
+        title: None
+        organization: "weber shandwick"
+        industry: "public relations and communications"
+        startedOn: None
+        completedOn: None
+        jobHeadline: None
+    },
+    {
+        title: "Chief Executive Officer"
+        organization: "chronicle health"
+        industry: "information services"
+        startedOn: None
+        completedOn: None
+        jobHeadline: None
+    },
+    {
+        title: None
+        organization: "medqor"
+        industry: "information services"
+        startedOn: None
+        completedOn: None
+        jobHeadline: None
+    },  
+    {
+        title: None
+        organization: "hint kc"
+        industry: "media production"
+        startedOn: None
+        completedOn: None
+        jobHeadline: None
+    },  
+  ]
+},
+usernames: ["danbarker", "jblow"]

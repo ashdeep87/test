@@ -1,0 +1,24 @@
+{
+            "address": {
+                "city": "Kansas City",
+                "country": "United States",
+                "state": "Missouri",
+            },
+            "email": "dan.barker@chronicle.health",
+            "emailStatus": None,
+            "firstName": "Dan",
+            "fullName": "Dan Barker",
+            "lastName": "Barker",
+            "organization": {
+                "domain": "http://www.chronicle.health",
+                "name": "Chronicle Health",
+            },
+            "social": {
+                "facebook": None,
+                "github": None,
+                "linkedin": "http://www.linkedin.com/in/danbarker",
+                "photo": "https://media-exp3.licdn.com/dms/image/C4E03AQErD10zkVTHWw/profile-displayphoto-shrink_200_200/0/1592583353065?e=1629936000&v=beta&t=3yig1-CtL39WKB1Hpjsi8SvmKMdjn_KuD97lyrAwkSs",
+                "twitter": None,
+            },
+            "title": "Chief Executive Officer",
+        }

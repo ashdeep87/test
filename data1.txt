@@ -1,0 +1,434 @@
+{
+        "data": {
+            "people": {
+                "individualInfoBeta": {
+                    "birth_date": null,
+                    "birth_year": null,
+                    "education": [
+                        {
+                            "degrees": [],
+                            "majors": [],
+                            "school": {
+                                "domain": null,
+                                "facebook_url": null,
+                                "id": null,
+                                "linkedin_id": null,
+                                "linkedin_url": null,
+                                "location": null,
+                                "name": "hutchinson high school",
+                                "twitter_url": null,
+                                "type": "secondary school",
+                                "website": null
+                            }
+                        },
+                        {
+                            "degrees": [],
+                            "majors": ["marketing", "public relations"],
+                            "school": {
+                                "domain": "rockcha.lk",
+                                "facebook_url": "facebook.com/ku",
+                                "id": "3hEoHgyaqJvmPUxOt2JqHg_0",
+                                "linkedin_id": "18385",
+                                "linkedin_url": "linkedin.com/school/university-of-kansas",
+                                "location": {
+                                    "continent": "north america",
+                                    "country": "united states",
+                                    "locality": "lawrence",
+                                    "name": "lawrence, kansas, united states",
+                                    "region": "kansas"
+                                },
+                                "name": "the university of kansas",
+                                "twitter_url": "twitter.com/kunews",
+                                "type": "post-secondary institution",
+                                "website": "rockcha.lk"
+                            }
+                        },
+                        {
+                            "degrees": ["bachelors", "bachelor of science"],
+                            "majors": [
+                                "communications",
+                                "marketing",
+                                "public relations",
+                                "journalism"
+                            ],
+                            "school": {
+                                "domain": "k-state.edu",
+                                "facebook_url": "facebook.com/kstate",
+                                "id": "2EmDiFxZIQBvHkF3SETWZQ_0",
+                                "linkedin_id": "18377",
+                                "linkedin_url": "linkedin.com/school/kansas-state-university",
+                                "location": {
+                                    "continent": "north america",
+                                    "country": "united states",
+                                    "locality": "manhattan",
+                                    "name": "manhattan, kansas, united states",
+                                    "region": "kansas"
+                                },
+                                "name": "kansas state university",
+                                "twitter_url": "twitter.com/kstate",
+                                "type": "post-secondary institution",
+                                "website": "k-state.edu"
+                            }
+                        }
+                    ],
+                    "emails": [
+                        {"address": "dbarker@hint.is", "type": "professional"},
+                        {"address": "ibarky@gmail.com", "type": "personal"},
+                        {"address": "dbarker@fishbowl.com", "type": "professional"},
+                        {
+                            "address": "dan.barker@clickfarminteractive.com",
+                            "type": "professional"
+                        },
+                        {"address": "dbarker@c3mail.com", "type": null},
+                        {"address": "dbarker@hinthint.tv", "type": null}
+                    ],
+                    "experience": [
+                        {
+                            "company": {
+                                "facebook_url": "facebook.com/familyhospitality",
+                                "founded": 2004,
+                                "id": "the-family-hospitality-group",
+                                "industry": "marketing and advertising",
+                                "linkedin_id": 1438664,
+                                "linkedin_url": "linkedin.com/company/the-family-hospitality-group",
+                                "location": {
+                                    "address_line_2": null,
+                                    "continent": "north america",
+                                    "country": "united states",
+                                    "geo": "36.17,-115.13",
+                                    "locality": "las vegas",
+                                    "metro": "las vegas, nevada",
+                                    "name": "las vegas, nevada, united states",
+                                    "postal_code": null,
+                                    "region": "nevada",
+                                    "street_address": "3635 south fort apache road"
+                                },
+                                "name": "the family hospitality group",
+                                "size": "11-50",
+                                "twitter_url": null,
+                                "website": "familyhospitality.com"
+                            },
+                            "location_names": ["las vegas, nevada, united states"]
+                        },
+                        {
+                            "company": {
+                                "facebook_url": null,
+                                "founded": null,
+                                "id": null,
+                                "industry": null,
+                                "linkedin_id": null,
+                                "linkedin_url": null,
+                                "location": null,
+                                "name": "landajob marketing and advertising talent",
+                                "size": null,
+                                "twitter_url": null,
+                                "website": null
+                            },
+                            "location_names": []
+                        },
+                        {
+                            "company": {
+                                "facebook_url": null,
+                                "founded": 2000,
+                                "id": "chicago-rush-arena-football",
+                                "industry": "sports",
+                                "linkedin_id": 58355,
+                                "linkedin_url": "linkedin.com/company/chicago-rush-arena-football",
+                                "location": {
+                                    "address_line_2": "suite #402",
+                                    "continent": "north america",
+                                    "country": "united states",
+                                    "geo": "42.03,-87.88",
+                                    "locality": "des plaines",
+                                    "metro": "chicago, illinois",
+                                    "name": "des plaines, illinois, united states",
+                                    "postal_code": 60018,
+                                    "region": "illinois",
+                                    "street_address": "2340 south river road"
+                                },
+                                "name": "chicago rush arena football",
+                                "size": "11-50",
+                                "twitter_url": null,
+                                "website": "arenarush.com"
+                            },
+                            "location_names": []
+                        },
+                        {
+                            "company": {
+                                "facebook_url": null,
+                                "founded": null,
+                                "id": "shipitpro",
+                                "industry": "logistics and supply chain",
+                                "linkedin_id": null,
+                                "linkedin_url": "linkedin.com/company/shipitpro",
+                                "location": {
+                                    "address_line_2": null,
+                                    "continent": "north america",
+                                    "country": "united states",
+                                    "geo": "35.14,-90.04",
+                                    "locality": "memphis",
+                                    "metro": "memphis, tennessee",
+                                    "name": "memphis, tennessee, united states",
+                                    "postal_code": null,
+                                    "region": "tennessee",
+                                    "street_address": null
+                                },
+                                "name": "ship it pro",
+                                "size": "1-10",
+                                "twitter_url": null,
+                                "website": "shipitpro.com"
+                            },
+                            "location_names": ["memphis, tennessee, united states"]
+                        },
+                        {
+                            "company": {
+                                "facebook_url": "facebook.com/c3marketing.design",
+                                "founded": 1987,
+                                "id": "c3-creative-consumer-concepts",
+                                "industry": "marketing and advertising",
+                                "linkedin_id": 865724,
+                                "linkedin_url": "linkedin.com/company/c3-creative-consumer-concepts",
+                                "location": {
+                                    "address_line_2": null,
+                                    "continent": "north america",
+                                    "country": "united states",
+                                    "geo": "38.98,-94.67",
+                                    "locality": "overland park",
+                                    "metro": "kansas city, missouri",
+                                    "name": "overland park, kansas, united states",
+                                    "postal_code": 66211,
+                                    "region": "kansas",
+                                    "street_address": "10955 granada lane"
+                                },
+                                "name": "c3 | creative consumer concepts",
+                                "size": "11-50",
+                                "twitter_url": "twitter.com/c3lab",
+                                "website": "c3brandmarketing.com"
+                            },
+                            "location_names": []
+                        },
+                        {
+                            "company": {
+                                "facebook_url": "facebook.com/clickfarminteractive",
+                                "founded": 2005,
+                                "id": "clickfarm-interactive",
+                                "industry": "marketing and advertising",
+                                "linkedin_id": 2124694,
+                                "linkedin_url": "linkedin.com/company/clickfarm-interactive",
+                                "location": {
+                                    "address_line_2": null,
+                                    "continent": "north america",
+                                    "country": "united states",
+                                    "geo": "39.09,-94.57",
+                                    "locality": "kansas city",
+                                    "metro": "kansas city, missouri",
+                                    "name": "kansas city, missouri, united states",
+                                    "postal_code": 64108,
+                                    "region": "missouri",
+                                    "street_address": "1527 locust street"
+                                },
+                                "name": "clickfarm interactive",
+                                "size": "11-50",
+                                "twitter_url": "twitter.com/clickfarm",
+                                "website": "clickfarminteractive.com"
+                            },
+                            "location_names": ["kansas city, missouri, united states"]
+                        },
+                        {
+                            "company": {
+                                "facebook_url": "facebook.com/liquid9",
+                                "founded": 2003,
+                                "id": "liquid-9",
+                                "industry": "media production",
+                                "linkedin_id": 1070894,
+                                "linkedin_url": "linkedin.com/company/liquid-9",
+                                "location": {
+                                    "address_line_2": null,
+                                    "continent": "north america",
+                                    "country": "united states",
+                                    "geo": "39.09,-94.57",
+                                    "locality": "kansas city",
+                                    "metro": "kansas city, missouri",
+                                    "name": "kansas city, missouri, united states",
+                                    "postal_code": 64108,
+                                    "region": "missouri",
+                                    "street_address": "515 southwest boulevard"
+                                },
+                                "name": "liquid 9",
+                                "size": "11-50",
+                                "twitter_url": "twitter.com/liquid9",
+                                "website": "liquid9.tv"
+                            },
+                            "location_names": []
+                        },
+                        {
+                            "company": {
+                                "facebook_url": "facebook.com/fishbowlmarketing",
+                                "founded": 2000,
+                                "id": "fishbowlinc",
+                                "industry": "marketing and advertising",
+                                "linkedin_id": 25642,
+                                "linkedin_url": "linkedin.com/company/fishbowlinc",
+                                "location": {
+                                    "address_line_2": "suite 500",
+                                    "continent": "north america",
+                                    "country": "united states",
+                                    "geo": "38.80,-77.04",
+                                    "locality": "alexandria",
+                                    "metro": "district of columbia",
+                                    "name": "alexandria, virginia, united states",
+                                    "postal_code": 22314,
+                                    "region": "virginia",
+                                    "street_address": "44 canal center plaza"
+                                },
+                                "name": "fishbowl inc.",
+                                "size": "51-200",
+                                "twitter_url": "twitter.com/fishbowlinc",
+                                "website": "fishbowl.com"
+                            },
+                            "location_names": [
+                                "washington, district of columbia, united states"
+                            ]
+                        },
+                        {
+                            "company": {
+                                "facebook_url": "facebook.com/webershandwick",
+                                "founded": 1921,
+                                "id": "weber-shandwick",
+                                "industry": "public relations and communications",
+                                "linkedin_id": 4377,
+                                "linkedin_url": "linkedin.com/company/weber-shandwick",
+                                "location": {
+                                    "address_line_2": null,
+                                    "continent": "north america",
+                                    "country": "united states",
+                                    "geo": "40.71,-74.00",
+                                    "locality": "new york",
+                                    "metro": "new york, new york",
+                                    "name": "new york, new york, united states",
+                                    "postal_code": 10022,
+                                    "region": "new york",
+                                    "street_address": "909 third avenue"
+                                },
+                                "name": "weber shandwick",
+                                "size": "1001-5000",
+                                "twitter_url": "twitter.com/webershandwick",
+                                "website": "webershandwick.com"
+                            },
+                            "location_names": []
+                        },
+                        {
+                            "company": {
+                                "facebook_url": null,
+                                "founded": null,
+                                "id": "chroniclehealth",
+                                "industry": "information services",
+                                "linkedin_id": null,
+                                "linkedin_url": "linkedin.com/company/chroniclehealth",
+                                "location": null,
+                                "name": "chronicle health",
+                                "size": "11-50",
+                                "twitter_url": null,
+                                "website": "chronicle.health"
+                            },
+                            "location_names": ["kansas city, missouri, united states"]
+                        },
+                        {
+                            "company": {
+                                "facebook_url": null,
+                                "founded": 2009,
+                                "id": "medqor™",
+                                "industry": "information services",
+                                "linkedin_id": 16234452,
+                                "linkedin_url": "linkedin.com/company/medqor™",
+                                "location": {
+                                    "address_line_2": "suite 112",
+                                    "continent": "north america",
+                                    "country": "united states",
+                                    "geo": "38.98,-94.67",
+                                    "locality": "overland park",
+                                    "metro": "kansas city, missouri",
+                                    "name": "overland park, kansas, united states",
+                                    "postal_code": 66210,
+                                    "region": "kansas",
+                                    "street_address": "7900 college boulevard"
+                                },
+                                "name": "medqor",
+                                "size": "51-200",
+                                "twitter_url": null,
+                                "website": "medqor.com"
+                            },
+                            "location_names": ["kansas city, missouri, united states"]
+                        },
+                        {
+                            "company": {
+                                "facebook_url": "facebook.com/degdigital",
+                                "founded": 1990,
+                                "id": "thisishint",
+                                "industry": "media production",
+                                "linkedin_id": 3510223,
+                                "linkedin_url": "linkedin.com/company/thisishint",
+                                "location": {
+                                    "address_line_2": null,
+                                    "continent": "north america",
+                                    "country": "united states",
+                                    "geo": "39.09,-94.57",
+                                    "locality": "kansas city",
+                                    "metro": "kansas city, missouri",
+                                    "name": "kansas city, missouri, united states",
+                                    "postal_code": 64108,
+                                    "region": "missouri",
+                                    "street_address": "1906 wyandotte"
+                                },
+                                "name": "hint kc",
+                                "size": "11-50",
+                                "twitter_url": "twitter.com/degdigital",
+                                "website": "hint.is"
+                            },
+                            "location_names": ["kansas city, missouri, united states"]
+                        }
+                    ],
+                    "facebook_url": "facebook.com/barky",
+                    "first_name": "dan",
+                    "full_name": "dan barker",
+                    "gender": "male",
+                    "github_url": null,
+                    "id": "24BuT5Mc-JPLM32mNeB-aA_0000",
+                    "industry": "information services",
+                    "job_company_linkedin_id": null,
+                    "job_company_linkedin_url": "linkedin.com/company/chroniclehealth",
+                    "job_company_location_name": null,
+                    "job_company_name": "chronicle health",
+                    "job_company_size": "11-50",
+                    "job_company_website": "chronicle.health",
+                    "job_last_updated": "2021-06-01",
+                    "job_start_date": "2020-01",
+                    "job_title": "chief executive officer",
+                    "job_title_levels": ["cxo"],
+                    "last_name": "barker",
+                    "linkedin_id": 7484210,
+                    "linkedin_url": "linkedin.com/in/danbarker",
+                    "linkedin_username": "danbarker",
+                    "location_geo": "39.09,-94.57",
+                    "location_last_updated": "2021-06-01",
+                    "location_name": "kansas city, missouri, united states",
+                    "middle_initial": null,
+                    "middle_name": null,
+                    "mobile_phone": null,
+                    "phone_numbers": ["+19134916444", "+18166985054"],
+                    "profiles": [
+                        {"id": 7484210, "url": "linkedin.com/in/danbarker"},
+                        {"id": 822610042, "url": "facebook.com/barky"},
+                        {"id": null, "url": "twitter.com/ibarky"},
+                        {"id": null, "url": "linkedin.com/in/dan-barker-18260b2"},
+                        {"id": null, "url": "foursquare.com/user/64924"},
+                        {"id": null, "url": "gravatar.com/ibarky"},
+                        {"id": null, "url": "youtube.com/user/iphog"},
+                        {"id": null, "url": "klout.com/ibarky"}
+                    ],
+                    "twitter_url": "twitter.com/ibarky",
+                    "work_email": null
+                }
+            }
+        }
+    }
